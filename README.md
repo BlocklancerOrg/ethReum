@@ -1,4 +1,4 @@
-'ethr' - An Ethereum Package for R
+'ethReum' - An Ethereum Package for R
 ================
 
 -   [Description](#description)
@@ -10,7 +10,7 @@
 Description
 ===========
 
-The 'ethr' R package is an interface for accessing Ethereum blockchain data in R, querying the Ethereum Blockchain via the JSON-RPC API.
+The 'ethReum' R package is an interface for accessing Ethereum blockchain data in R, querying the Ethereum Blockchain via the JSON-RPC API.
 
 ethr provides several convenience and helper functions, such as:
 
@@ -26,7 +26,7 @@ The package will be submitted to CRAN soon, until then you can install it from G
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("BSDStudios/ethr")
+devtools::install_github("BlocklancerOrg/ethReum")
 ```
 
 Setup
