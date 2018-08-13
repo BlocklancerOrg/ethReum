@@ -73,3 +73,6 @@ These functions use the base function, queering the blockchain, but make it easi
 -   bulkBlockDownload.R breaks a large block range up and manages the download size. All downloaded blocks will be stored in a ethr\_blocks folder in the data\_dir.
 
 -   getBlockRange - Returns the minimum and maximum blocks that are currently downloaded for the analysis table. Note: this does not check for continuity, only returns min and max vales.
+
+# More information
+[https://blocklancer.net/](https://blocklancer.net/)
